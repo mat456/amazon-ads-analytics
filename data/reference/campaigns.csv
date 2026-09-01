@@ -1,0 +1,24 @@
+campaign_id,campaign_name,product_id,campaign_type,targeting_type,daily_budget,start_date,end_date,status
+C001,SP - Milk Frother - AUTO,P001,Sponsored Products,AUTO,18.00,2025-10-01,,Enabled
+C002,SP - Kitchen Scale - AUTO,P002,Sponsored Products,AUTO,22.00,2025-10-01,,Enabled
+C003,SP - Travel Mug - AUTO,P003,Sponsored Products,AUTO,16.00,2025-10-01,,Enabled
+C004,SP - Food Containers - AUTO,P004,Sponsored Products,AUTO,14.00,2025-10-01,,Enabled
+C005,SP - Desk Lamp - AUTO,P005,Sponsored Products,AUTO,15.00,2025-10-01,,Enabled
+C006,SP - Oil Diffuser - AUTO,P006,Sponsored Products,AUTO,14.00,2025-10-01,,Enabled
+C007,SP - Storage Organizer - AUTO,P007,Sponsored Products,AUTO,18.00,2025-10-01,,Enabled
+C008,SP - Alarm Clock - AUTO,P008,Sponsored Products,AUTO,9.00,2025-10-01,,Enabled
+C009,SP - Water Bottle - AUTO,P009,Sponsored Products,AUTO,26.00,2025-10-01,,Enabled
+C010,SP - Laptop Stand - AUTO,P010,Sponsored Products,AUTO,17.00,2025-10-01,,Enabled
+C011,SP - Resistance Bands - AUTO,P011,Sponsored Products,AUTO,20.00,2025-10-01,,Enabled
+C012,SP - Travel Organizer - AUTO,P012,Sponsored Products,AUTO,12.00,2025-10-01,,Enabled
+C013,SP - Milk Frother - KW,P001,Sponsored Products,MANUAL_KEYWORD,25.00,2025-11-15,,Enabled
+C014,SP - Kitchen Scale - KW,P002,Sponsored Products,MANUAL_KEYWORD,30.00,2025-11-15,,Enabled
+C015,SP - Travel Mug - KW,P003,Sponsored Products,MANUAL_KEYWORD,22.00,2025-11-15,,Enabled
+C016,SP - Desk Lamp - KW,P005,Sponsored Products,MANUAL_KEYWORD,20.00,2025-11-15,,Enabled
+C017,SP - Water Bottle - KW,P009,Sponsored Products,MANUAL_KEYWORD,35.00,2025-11-15,,Enabled
+C018,SP - Laptop Stand - KW,P010,Sponsored Products,MANUAL_KEYWORD,25.00,2025-11-15,,Enabled
+C019,SP - Resistance Bands - KW,P011,Sponsored Products,MANUAL_KEYWORD,24.00,2025-11-15,,Enabled
+C020,SP - Travel Organizer - KW,P012,Sponsored Products,MANUAL_KEYWORD,18.00,2025-11-15,,Enabled
+C021,SP - Food Containers - PT,P004,Sponsored Products,PRODUCT_TARGETING,12.00,2026-01-15,,Enabled
+C022,SP - Water Bottle - PT,P009,Sponsored Products,PRODUCT_TARGETING,20.00,2026-01-15,,Enabled
+C023,SP - Laptop Stand - PT,P010,Sponsored Products,PRODUCT_TARGETING,16.00,2026-01-15,,Enabled

@@ -1,0 +1,118 @@
+target_id,ad_group_id,target_type,target_value,match_type,default_bid,status
+T001,AG001,AUTO,close_match,,0.75,Enabled
+T002,AG001,AUTO,loose_match,,0.60,Enabled
+T003,AG001,AUTO,substitutes,,0.65,Enabled
+T004,AG001,AUTO,complements,,0.45,Enabled
+T005,AG002,AUTO,close_match,,0.80,Enabled
+T006,AG002,AUTO,loose_match,,0.65,Enabled
+T007,AG002,AUTO,substitutes,,0.70,Enabled
+T008,AG002,AUTO,complements,,0.50,Enabled
+T009,AG003,AUTO,close_match,,0.85,Enabled
+T010,AG003,AUTO,loose_match,,0.70,Enabled
+T011,AG003,AUTO,substitutes,,0.75,Enabled
+T012,AG003,AUTO,complements,,0.50,Enabled
+T013,AG004,AUTO,close_match,,0.60,Enabled
+T014,AG004,AUTO,loose_match,,0.45,Enabled
+T015,AG004,AUTO,substitutes,,0.50,Enabled
+T016,AG004,AUTO,complements,,0.35,Enabled
+T017,AG005,AUTO,close_match,,0.75,Enabled
+T018,AG005,AUTO,loose_match,,0.60,Enabled
+T019,AG005,AUTO,substitutes,,0.65,Enabled
+T020,AG005,AUTO,complements,,0.45,Enabled
+T021,AG006,AUTO,close_match,,0.70,Enabled
+T022,AG006,AUTO,loose_match,,0.55,Enabled
+T023,AG006,AUTO,substitutes,,0.60,Enabled
+T024,AG006,AUTO,complements,,0.40,Enabled
+T025,AG007,AUTO,close_match,,0.60,Enabled
+T026,AG007,AUTO,loose_match,,0.45,Enabled
+T027,AG007,AUTO,substitutes,,0.50,Enabled
+T028,AG007,AUTO,complements,,0.35,Enabled
+T029,AG008,AUTO,close_match,,0.50,Enabled
+T030,AG008,AUTO,loose_match,,0.40,Enabled
+T031,AG008,AUTO,substitutes,,0.45,Enabled
+T032,AG008,AUTO,complements,,0.30,Enabled
+T033,AG009,AUTO,close_match,,1.05,Enabled
+T034,AG009,AUTO,loose_match,,0.85,Enabled
+T035,AG009,AUTO,substitutes,,0.95,Enabled
+T036,AG009,AUTO,complements,,0.65,Enabled
+T037,AG010,AUTO,close_match,,0.80,Enabled
+T038,AG010,AUTO,loose_match,,0.65,Enabled
+T039,AG010,AUTO,substitutes,,0.70,Enabled
+T040,AG010,AUTO,complements,,0.50,Enabled
+T041,AG011,AUTO,close_match,,0.95,Enabled
+T042,AG011,AUTO,loose_match,,0.80,Enabled
+T043,AG011,AUTO,substitutes,,0.85,Enabled
+T044,AG011,AUTO,complements,,0.60,Enabled
+T045,AG012,AUTO,close_match,,0.65,Enabled
+T046,AG012,AUTO,loose_match,,0.50,Enabled
+T047,AG012,AUTO,substitutes,,0.55,Enabled
+T048,AG012,AUTO,complements,,0.40,Enabled
+T049,AG013,KEYWORD,milk frother,BROAD,0.75,Enabled
+T050,AG013,KEYWORD,electric milk frother,PHRASE,0.90,Enabled
+T051,AG013,KEYWORD,electric milk frother,EXACT,1.05,Enabled
+T052,AG013,KEYWORD,coffee milk frother,PHRASE,0.85,Enabled
+T053,AG013,KEYWORD,handheld milk frother,EXACT,0.95,Enabled
+T054,AG013,KEYWORD,coffee accessories,BROAD,0.60,Enabled
+
+T055,AG014,KEYWORD,kitchen scale,BROAD,0.80,Enabled
+T056,AG014,KEYWORD,digital kitchen scale,PHRASE,0.95,Enabled
+T057,AG014,KEYWORD,digital kitchen scale,EXACT,1.10,Enabled
+T058,AG014,KEYWORD,food weighing scale,PHRASE,0.90,Enabled
+T059,AG014,KEYWORD,precision kitchen scale,EXACT,1.05,Enabled
+T060,AG014,KEYWORD,baking accessories,BROAD,0.65,Enabled
+
+T061,AG015,KEYWORD,travel mug,BROAD,0.90,Enabled
+T062,AG015,KEYWORD,insulated travel mug,PHRASE,1.00,Enabled
+T063,AG015,KEYWORD,insulated travel mug,EXACT,1.15,Enabled
+T064,AG015,KEYWORD,coffee travel mug,PHRASE,1.00,Enabled
+T065,AG015,KEYWORD,thermal coffee mug,EXACT,1.10,Enabled
+T066,AG015,KEYWORD,coffee accessories,BROAD,0.70,Enabled
+
+T067,AG016,KEYWORD,desk lamp,BROAD,0.85,Enabled
+T068,AG016,KEYWORD,led desk lamp,PHRASE,1.00,Enabled
+T069,AG016,KEYWORD,led desk lamp,EXACT,1.15,Enabled
+T070,AG016,KEYWORD,office desk lamp,PHRASE,0.95,Enabled
+T071,AG016,KEYWORD,adjustable desk lamp,EXACT,1.10,Enabled
+T072,AG016,KEYWORD,desk accessories,BROAD,0.65,Enabled
+
+T073,AG017,KEYWORD,water bottle,BROAD,1.10,Enabled
+T074,AG017,KEYWORD,stainless steel water bottle,PHRASE,1.30,Enabled
+T075,AG017,KEYWORD,stainless steel water bottle,EXACT,1.45,Enabled
+T076,AG017,KEYWORD,insulated water bottle,PHRASE,1.25,Enabled
+T077,AG017,KEYWORD,reusable water bottle,EXACT,1.30,Enabled
+T078,AG017,KEYWORD,sports bottle,BROAD,0.95,Enabled
+
+T079,AG018,KEYWORD,laptop stand,BROAD,0.85,Enabled
+T080,AG018,KEYWORD,adjustable laptop stand,PHRASE,1.00,Enabled
+T081,AG018,KEYWORD,adjustable laptop stand,EXACT,1.15,Enabled
+T082,AG018,KEYWORD,ergonomic laptop stand,EXACT,1.20,Enabled
+T083,AG018,KEYWORD,macbook stand,PHRASE,1.00,Enabled
+T084,AG018,KEYWORD,computer stand,BROAD,0.70,Enabled
+
+T085,AG019,KEYWORD,resistance bands,BROAD,1.00,Enabled
+T086,AG019,KEYWORD,resistance bands set,PHRASE,1.15,Enabled
+T087,AG019,KEYWORD,resistance bands set,EXACT,1.30,Enabled
+T088,AG019,KEYWORD,fitness resistance bands,PHRASE,1.20,Enabled
+T089,AG019,KEYWORD,workout bands,EXACT,1.15,Enabled
+T090,AG019,KEYWORD,home gym equipment,BROAD,0.85,Enabled
+
+T091,AG020,KEYWORD,travel organizer,BROAD,0.70,Enabled
+T092,AG020,KEYWORD,travel organizer set,PHRASE,0.85,Enabled
+T093,AG020,KEYWORD,travel organizer set,EXACT,1.00,Enabled
+T094,AG020,KEYWORD,packing organizer,PHRASE,0.85,Enabled
+T095,AG020,KEYWORD,packing cubes,EXACT,1.05,Enabled
+T096,AG020,KEYWORD,travel accessories,BROAD,0.60,Enabled
+T097,AG021,PRODUCT,B0CMPFC001,,0.65,Enabled
+T098,AG021,PRODUCT,B0CMPFC002,,0.70,Enabled
+T099,AG021,PRODUCT,B0CMPFC003,,0.60,Enabled
+T100,AG021,CATEGORY,Food Storage Containers,,0.50,Enabled
+
+T101,AG022,PRODUCT,B0CMPWB001,,1.05,Enabled
+T102,AG022,PRODUCT,B0CMPWB002,,1.15,Enabled
+T103,AG022,PRODUCT,B0CMPWB003,,1.00,Enabled
+T104,AG022,CATEGORY,Reusable Water Bottles,,0.90,Enabled
+
+T105,AG023,PRODUCT,B0CMPLS001,,0.85,Enabled
+T106,AG023,PRODUCT,B0CMPLS002,,0.95,Enabled
+T107,AG023,PRODUCT,B0CMPLS003,,0.90,Enabled
+T108,AG023,CATEGORY,Laptop Stands,,0.75,Enabled

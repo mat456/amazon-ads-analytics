@@ -1,0 +1,24 @@
+ad_group_id,ad_group_name,campaign_id,status
+AG001,Milk Frother - Auto,C001,Enabled
+AG002,Kitchen Scale - Auto,C002,Enabled
+AG003,Travel Mug - Auto,C003,Enabled
+AG004,Food Containers - Auto,C004,Enabled
+AG005,Desk Lamp - Auto,C005,Enabled
+AG006,Oil Diffuser - Auto,C006,Enabled
+AG007,Storage Organizer - Auto,C007,Enabled
+AG008,Alarm Clock - Auto,C008,Enabled
+AG009,Water Bottle - Auto,C009,Enabled
+AG010,Laptop Stand - Auto,C010,Enabled
+AG011,Resistance Bands - Auto,C011,Enabled
+AG012,Travel Organizer - Auto,C012,Enabled
+AG013,Milk Frother - Keywords,C013,Enabled
+AG014,Kitchen Scale - Keywords,C014,Enabled
+AG015,Travel Mug - Keywords,C015,Enabled
+AG016,Desk Lamp - Keywords,C016,Enabled
+AG017,Water Bottle - Keywords,C017,Enabled
+AG018,Laptop Stand - Keywords,C018,Enabled
+AG019,Resistance Bands - Keywords,C019,Enabled
+AG020,Travel Organizer - Keywords,C020,Enabled
+AG021,Food Containers - Product Targets,C021,Enabled
+AG022,Water Bottle - Product Targets,C022,Enabled
+AG023,Laptop Stand - Product Targets,C023,Enabled
