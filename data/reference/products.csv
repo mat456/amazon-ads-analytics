@@ -1,0 +1,13 @@
+product_id,asin,sku,product_name,category,selling_price,unit_cost,launch_date,status
+P001,B0NXL00001,NXL-KIT-001,Electric Milk Frother,Kitchen,29.90,11.50,2024-03-15,Active
+P002,B0NXL00002,NXL-KIT-002,Digital Kitchen Scale,Kitchen,24.90,8.50,2023-09-10,Active
+P003,B0NXL00003,NXL-KIT-003,Insulated Travel Mug,Kitchen,34.90,14.00,2024-01-20,Active
+P004,B0NXL00004,NXL-KIT-004,Glass Food Container Set,Kitchen,39.90,18.50,2023-11-05,Active
+P005,B0NXL00005,NXL-HOM-001,LED Desk Lamp,Home,44.90,20.00,2024-08-01,Active
+P006,B0NXL00006,NXL-HOM-002,Essential Oil Diffuser,Home,36.90,15.00,2023-10-15,Active
+P007,B0NXL00007,NXL-HOM-003,Storage Organizer Set,Home,27.90,10.50,2024-02-01,Active
+P008,B0NXL00008,NXL-HOM-004,Digital Alarm Clock,Home,32.90,13.50,2023-07-12,Active
+P009,B0NXL00009,NXL-LIF-001,Stainless Steel Water Bottle,Lifestyle,26.90,9.50,2024-04-01,Active
+P010,B0NXL00010,NXL-LIF-002,Laptop Stand,Lifestyle,42.90,17.00,2023-06-20,Active
+P011,B0NXL00011,NXL-LIF-003,Resistance Bands Set,Lifestyle,22.90,7.50,2024-01-05,Active
+P012,B0NXL00012,NXL-LIF-004,Travel Organizer Set,Lifestyle,31.90,12.50,2024-05-15,Active
