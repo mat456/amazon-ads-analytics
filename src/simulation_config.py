@@ -9,7 +9,7 @@ RANDOM_SEED = 42
 START_DATE = date(2025, 10, 1)
 END_DATE = date(2026, 6, 30)
 
-BASE_DAILY_IMPRESSIONS = 1200
+BASE_DAILY_IMPRESSIONS = 350
 
 
 # --------------------------------------------------
